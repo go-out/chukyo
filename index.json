@@ -1,30 +1,45 @@
 {
-    "url": "/map/",
+    "url": "/chukyo/",
     "title": [
-        "Go Out and Explore",
-        "地図テンプレート"
+        "Aichi - Gifu - Mie, Japan",
+        "中京圏（名古屋都市圏）"
     ],
-    "description": "このJSONは複製先サイトの雛形（プレースホルダー）です。実際の内容に書き換えて使ってください。",
+    "description": "東海三県（愛知県・岐阜県・三重県）に及ぶ、日本列島の中央部（東京と京都の間に位置する）最大の都市圏",
     "info": {
-        "note": [
-            "ここに紹介文を書きます",
-            "長い文章にしたい場合はinfo.markdownで別ファイルを指定できます"
-        ],
         "markdown": "README.md",
         "links": [
             {
-                "text": "date/",
-                "url": "date/",
-                "target": "_self"
+                "text": "東海地方 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/東海地方",
+                "target": "_blank"
+            },
+            {
+                "text": "東海3県 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/東海3県",
+                "target": "_blank"
             }
         ]
     },
     "map": {
         "center": [
-            139.7671,
-            35.6812
+            136.910066611388,
+            35.12997496446201
         ],
-        "zoom": 10
+        "bounds": [
+            [
+                136.25571336229365,
+                34.19649290459195
+            ],
+            [
+                138.0,
+                35.66084196852354
+            ]
+        ],
+        "zoom": 8.5
+    },
+    "cover": {
+        "directory": null,
+        "url": null
     },
     "features": [
         {
@@ -32,24 +47,135 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7671,
-                    35.6812
+                    136.63858405615474,
+                    35.42664224518727
+                ],
+                "address": "美濃国（岐阜県南部）"
+            },
+            "properties": {
+                "title": "美濃国（岐阜県南部）",
+                "description": "現在の岐阜県南部にあたる、三つの大きな美しい野（青野・大野・各務野）がある「御野国・美野国」",
+                "links": [
+                    {
+                        "text": "美濃国（岐阜県南部） Yoro - Ogaki - Mizuho, Gifu",
+                        "url": "/chukyo/?id=mino",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 10.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.62408703836115,
+                    35.134567952208016
                 ]
             },
             "properties": {
-                "title": "サンプルスポット",
-                "description": "ここにスポットの説明を書きます",
+                "title": "北勢（桑名・員弁）",
+                "description": "宿場町・城下町・港町として栄えた「伊勢国」への東の玄関口",
+                "links": [
+                    {
+                        "text": "北勢（桑名・員弁） Kuwana - Inbe, Mie",
+                        "url": "/chukyo/?id=ise&area=kuwana_inabe",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.45168406189185,
+                    34.964381769453766
+                ]
+            },
+            "properties": {
+                "title": "四日市・鈴鹿・亀山",
+                "description": "三重県の人口の大半が集中する同県内で最大の規模の都市「四日市」などの都市が集まる工業都市",
+                "links": [
+                    {
+                        "text": "四日市・鈴鹿・亀山 Yokkaichi - Suzuka -  Kameyama, Mie",
+                        "url": "/chukyo/?id=ise&area=yokkaichi_suzuka",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.50751188426977,
+                    34.68379898484478
+                ]
+            },
+            "properties": {
+                "title": "津・松阪市",
+                "description": "元伊勢「阿佐加藤方片樋宮」「飯野高宮」「佐佐牟江宮」「伊蘇宮」の比定地が点在する古代から神宮と結びつきが深い地域",
+                "links": [
+                    {
+                        "text": "津・松阪市 Tsu -  Matsusaka, Mie",
+                        "url": "/chukyo/?id=ise&area=tsu_matsusaki",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.71969571537136,
+                    34.46961497558448
+                ]
+            },
+            "properties": {
+                "title": "伊勢市",
+                "description": "神宮の二つの正宮「二所大神宮（皇大神宮・豊受大神宮）」がある、お伊勢参りの中心地",
+                "links": [
+                    {
+                        "text": "伊勢市 Ise City, Mie",
+                        "url": "/chukyo/?id=ise",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 12.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80879585489942,
+                    34.38016650380497
+                ]
+            },
+            "properties": {
+                "title": "志摩国（志摩・鳥羽）",
+                "description": "海女の磯笛は「日本の音風景100選」・リアス式海岸で知られる英虞湾は「日本の夕陽百選」に選ばれるなど、美しい日本の風景が残る「志摩半島」",
                 "note": [
-                    "補足その1"
+                    "現在の三重県鳥羽市の全域と志摩市の大部分（三重県の中東部に位置する半島）に位置する令制国"
                 ],
                 "links": [
                     {
-                        "text": "関連リンク",
-                        "url": "https://example.com",
-                        "target": "_blank"
+                        "text": "志摩国（志摩・鳥羽） Toba - Shima, Mie",
+                        "url": "/chukyo/?id=shima",
+                        "target": "_self"
                     }
                 ],
-                "zoom": 15
+                "zoom": 10.55
             }
         }
     ]

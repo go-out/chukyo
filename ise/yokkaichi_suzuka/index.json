@@ -1,0 +1,160 @@
+{
+    "url": "/chukyo/?id=ise&area=yokkaichi_suzuka",
+    "title": [
+        "Yokkaichi - Suzuka -  Kameyama, Mie",
+        "四日市・鈴鹿・亀山"
+    ],
+    "description": "三重県の人口の大半が集中する同県内で最大の規模の都市「四日市」などの都市が集まる工業都市",
+    "info": {
+        "markdown": "ise/yokkaichi_suzuka/README.md",
+        "links": [
+            {
+                "text": "四日市市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/四日市市",
+                "target": "_blank"
+            },
+            {
+                "text": "鈴鹿市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/鈴鹿市",
+                "target": "_blank"
+            },
+            {
+                "text": "亀山市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/亀山市",
+                "target": "_blank"
+            },
+            {
+                "text": "伊勢平野 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊勢平野",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.45168406189185,
+            34.964381769453766
+        ],
+        "bounds": [
+            [
+                136.25572789559396,
+                34.79646978665484
+            ],
+            [
+                136.77187760417257,
+                35.069805950473
+            ]
+        ],
+        "zoom": 11
+    },
+    "eventsJSON": [
+        "ise/yokkaichi_suzuka/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.45168406189185,
+                    34.964381769453766
+                ]
+            },
+            "properties": {
+                "title": "椿大神社",
+                "description": "三重県では伊勢神宮・二見興玉神社に次いで3番目に参拝者数の多い神社、伊勢国一宮（つばきおおかみやしろ）\n猿田彦大神を祀る神社の総本社「猿田彦大本宮」"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.33718857803845,
+                    34.89115400909718
+                ]
+            },
+            "properties": {
+                "title": "片山神社",
+                "description": "京都から伊勢神宮の斎宮へ「斎王」の一行が下向する儀式「群行（ぐんこう）」が行わる際に宿泊する仮の宮のひとつ「鈴鹿頓宮」の比定地",
+                "note": [
+                    "（群行は、近江国の国府と甲賀と垂水・伊勢国の鈴鹿と壱志に設けられた頓宮（とんぐう）で各一泊し、六日目に斎宮へ入る次第だったと伝わるが、実際の行程を語る史料はほとんど残っていない）"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.60128413045692,
+                    34.901295688514594
+                ]
+            },
+            "properties": {
+                "title": "都波岐神社・奈加等神社",
+                "description": "都波岐神社（つばき）は伊勢国一宮\n二社を合併して都波岐奈加等神社とも称される"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.43697064,
+                    34.85491019
+                ],
+                "address": "野村4-4-65"
+            },
+            "properties": {
+                "title": "忍山神社",
+                "description": "神主・忍山宿祢の長女で、景行天皇の王子ヤマトタケルの妻「弟橘姫命」の生誕の地として知られる\n元伊勢｢奈其波志忍山宮(なごはしのおしやまのみや)｣とも"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.42828034,
+                    34.85733124
+                ],
+                "address": "布気町1663"
+            },
+            "properties": {
+                "title": "布氣皇舘太神社",
+                "description": "元伊勢｢奈其波志忍山宮(なごはしのおしやまのみや)｣とも\n現在は｢式内社 布氣神社｣が当社に、｢式内社 忍山神社｣と元伊勢が忍山神社にということで概ね落ち着いているように見受けられます"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.55227499988345,
+                    34.83732777780957
+                ],
+                "address": "三重県鈴鹿市稲生西2-24-20"
+            },
+            "properties": {
+                "title": "伊奈冨神社",
+                "description": "伊勢国総社の推定神社の一つ。紫つつじの名所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.54175094,
+                    34.84477201
+                ],
+                "address": "三重県鈴鹿市稲生町7992"
+            },
+            "properties": {
+                "title": "鈴鹿サーキット",
+                "description": "日本のモータースポーツの聖地"
+            }
+        }
+    ]
+}

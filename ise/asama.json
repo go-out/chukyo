@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "url": "/chukyo/?id=ise&name-asama",
+    "title": [
+        "Asama",
+        "朝熊エリア"
+    ],
+    "description": "伊勢音頭に「伊勢へ参らば朝熊をかけよ」と歌われる、伊勢志摩の最高峰（あさまがたけ、標高約555m）",
+    "info": {
+        "note": null,
+        "links": [
+            {
+                "text": "朝熊エリア | 公益社団法人 伊勢市観光協会",
+                "url": "https://ise-kanko.jp/recommend/asamaarea/",
+                "target": "_blank"
+            },
+            {
+                "text": "参宮バス - 三重交通",
+                "url": "https://www.sanco.co.jp/shuttle/post-23/",
+                "target": "_blank"
+            },
+            {
+                "text": "朝熊山 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/朝熊山",
+                "target": "_blank"
+            },
+            {
+                "text": "五十鈴川駅前 - Google マップ",
+                "url": "https://maps.app.goo.gl/6PuaFzcBBDs4LHJq9",
+                "target": "_blank"
+            },
+            {
+                "text": "浦田町 - Google マップ",
+                "url": "https://maps.app.goo.gl/7E4pMhbrKnWtswDH6",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.76289553703765,
+            34.47161076956864
+        ],
+        "bounds": [
+            [
+                136.7431341033808,
+                34.42350845419814
+            ],
+            [
+                136.84488965740533,
+                34.49588367250994
+            ]
+        ],
+        "zoom": 13
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.78542994649172,
+                    34.45741989083723
+                ],
+                "address": "〒516-0021 三重県伊勢市朝熊町５４８"
+            },
+            "properties": {
+                "title": "朝熊ヶ岳",
+                "description": "伊勢音頭に「伊勢へ参らば朝熊をかけよ」と歌われる、伊勢志摩の最高峰（あさまがたけ、標高約555m）",
+                "note": [
+                    "山頂付近には、「神宮の鬼門を守る寺」として伊勢信仰と結びついた、神仏習合が残る金剛證寺・朝熊神社がある",
+                    "登山道<br>近鉄朝熊駅から徒歩約10分の「であいの広場」から朝熊岳道で約2時間（片道）",
+                    "アクセス<br>五十鈴川駅前・浦田町から三重交通「参宮バス」で「金剛證寺」下車<br>土日祝日、8月13日～8月15日、12月30日～1月4日のみ運行"
+                ],
+                "links": [
+                    {
+                        "text": "金剛證寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金剛證寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金剛證寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pcbz56z1x4VqtiZx7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.76289553703765,
+                    34.47161076956864
+                ]
+            },
+            "properties": {
+                "title": "朝熊岳道登山口",
+                "description": "朝熊ヶ岳への登山道の起点（山頂までは朝熊岳道で片道約2時間）",
+                "note": [
+                    "近鉄朝熊駅から徒歩約10分の「であいの広場」が登山道の起点"
+                ],
+                "links": [
+                    {
+                        "text": "朝熊ケ岳 朝熊岳道登山口 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uRHVSM6EcveJN9Zj6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "朝熊岳道 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pyHH5vuPX8NpTWUV9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        }
+    ],
+    "featuresJSON": [
+        "/jingu/naiku/index.json"
+    ]
+}

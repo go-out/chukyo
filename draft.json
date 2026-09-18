@@ -1,0 +1,145 @@
+{
+    "url": "/chukyo/",
+    "title": [
+        "Aichi - Gifu - Mie, Japan",
+        "中京圏（名古屋都市圏）"
+    ],
+    "description": null,
+    "info": {
+        "markdown": "draft.md",
+        "links": [
+            {
+                "text": "濃尾平野 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/濃尾平野",
+                "target": "_blank"
+            },
+            {
+                "text": "岡崎平野 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/岡崎平野",
+                "target": "_blank"
+            },
+            {
+                "text": "豊橋平野 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/豊橋平野",
+                "target": "_blank"
+            },
+            {
+                "text": "知多半島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/知多半島",
+                "target": "_blank"
+            },
+            {
+                "text": "渥美半島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/渥美半島",
+                "target": "_blank"
+            },
+            {
+                "text": "尾張国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/尾張国",
+                "target": "_blank"
+            },
+            {
+                "text": "三河国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/三河国",
+                "target": "_blank"
+            },
+            {
+                "text": "西三河 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/西三河",
+                "target": "_blank"
+            },
+            {
+                "text": "東三河 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/東三河",
+                "target": "_blank"
+            },
+            {
+                "text": "穂国造 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/穂国造",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.910066611388,
+            35.12997496446201
+        ],
+        "bounds": [
+            [
+                136.03519077911042,
+                34.19649290459195
+            ],
+            [
+                137.8382747925495,
+                35.66084196852354
+            ]
+        ],
+        "zoom": 8.5
+    },
+    "cover": {
+        "directory": null,
+        "url": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.910066611388,
+                    35.12997496446201
+                ]
+            },
+            "properties": {
+                "title": "尾張国（愛知県西部、名古屋周辺）",
+                "description": "中部・東海地方最大の都市「名古屋」を中心とする日本列島の中央部",
+                "links": [
+                    {
+                        "text": "尾張国（愛知県西部、名古屋周辺） Nagoya area (Western Aichi)",
+                        "url": "/chukyo/?id=owari",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 9.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.14565166058878,
+                    34.94298417077414
+                ]
+            },
+            "properties": {
+                "title": "三河国",
+                "description": "愛知県東部（三河国）",
+                "links": [
+                    {
+                        "text": "三河国 Mikawa area (Eastern Aichi)",
+                        "url": "/chukyo/?id=mikawa",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 9.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.59938637780897,
+                    34.78920882174269
+                ]
+            },
+            "properties": {
+                "title": "遠淡海国と赤石山脈（南アルプス）",
+                "description": "___",
+                "zoom": 8.5
+            }
+        }
+    ]
+}

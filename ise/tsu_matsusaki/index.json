@@ -1,0 +1,211 @@
+{
+    "url": "/chukyo/?id=ise&area=tsu_matsusaki",
+    "title": [
+        "Tsu -  Matsusaka, Mie",
+        "津・松阪市"
+    ],
+    "description": "元伊勢「阿佐加藤方片樋宮」「飯野高宮」「佐佐牟江宮」「伊蘇宮」の比定地が点在する古代から神宮と結びつきが深い地域",
+    "info": {
+        "markdown": "ise/tsu_matsusaki/README.md",
+        "links": [
+            {
+                "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
+                "url": "/jingu/?id=naiku&area=shinsangun",
+                "target": "_self"
+            },
+            {
+                "text": "津市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/津市",
+                "target": "_blank"
+            },
+            {
+                "text": "松阪市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/松阪市",
+                "target": "_blank"
+            },
+            {
+                "text": "伊勢平野 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊勢平野",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.50751188426977,
+            34.68379898484478
+        ],
+        "bounds": [
+            [
+                136.25571336229365,
+                34.49739485915079
+            ],
+            [
+                136.77187760417257,
+                34.85090489521929
+            ]
+        ],
+        "zoom": 11
+    },
+    "eventsJSON": [
+        "ise/tsu_matsusaki/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.40231479998846,
+                    34.557754814029394
+                ]
+            },
+            "properties": {
+                "title": "飯福田寺",
+                "description": "伊勢山上にある修験道の修行の場（いぶたじ）",
+                "note": [
+                    "写経、阿字観、修行トレッキングなどの体験があり、宿泊も可能",
+                    "<u>アクセス</u><br>三重交通バス「柚原」行き柚原下車 徒歩約40分"
+                ],
+                "links": [
+                    {
+                        "text": "国峰山 飯福田寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VVvzKAq5yWigC46PA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.46305634919736,
+                    34.574163621828504
+                ]
+            },
+            "properties": {
+                "title": "瑞巌寺庭園",
+                "description": "堀坂山麓の渓谷に人工の庭園美をいかした三重県・松阪市指定名勝",
+                "note": [
+                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「阿坂小野線」 バス停「岩内口」下車 徒歩約25分"
+                ],
+                "links": [
+                    {
+                        "text": "瑞巌寺 (松阪市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/瑞巌寺_(松阪市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "瑞巌寺庭園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dxR4QhpaqeY5My6M7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.46869723407764,
+                    34.59080655480041
+                ]
+            },
+            "properties": {
+                "title": "阿射加神社（小阿坂）",
+                "description": "大阿坂町にある同名の神社とともに、元伊勢「阿佐加藤方片樋宮」の比定地のひとつ",
+                "note": [
+                    "神宮の最大の祭祀「神嘗祭」で用いられる特別な聖火「忌火」の発祥の地",
+                    "祭神の阿耶訶大神とは猿田彦神、伊豆速布留神、竜天大神の三神",
+                    "枡形山（古称は阿射加山・安佐賀山、あざかやま）は歴史的・信仰的に重要な山",
+                    "（猿田彦神は伊勢国の国津神であり、この神を祀る神社では最も由緒ある神社といわれる）",
+                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「阿坂小野線」 バス停「阿坂小学校前」下車 徒歩約10分"
+                ],
+                "links": [
+                    {
+                        "text": "阿射加神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/阿射加神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿射加神社（小阿坂） - Google マップ",
+                        "url": "https://maps.app.goo.gl/rDzKUSsfEYwyWDAw7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿射加神社（大阿坂） - Google マップ",
+                        "url": "https://maps.app.goo.gl/mmGXVTbice4fwsR19",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.50751188426977,
+                    34.68379898484478
+                ]
+            },
+            "properties": {
+                "title": "加良比乃神社",
+                "description": "伊勢街道に面した集落「藤方森目」の奥地に鎮座する元伊勢「阿佐加藤方片樋宮」の比定地のひとつ",
+                "note": null,
+                "links": [
+                    {
+                        "text": "加良比乃神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/KFd5crUpXuupjFQP8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.50145801096312,
+                    34.71493981619409
+                ]
+            },
+            "properties": {
+                "title": "力士料理 金鍋",
+                "description": "津餃子も有名なちゃんこ鍋屋（旅館併設）",
+                "note": [
+                    "営業時間 17:00～22:00"
+                ],
+                "links": [
+                    {
+                        "text": "三重県･津市/居酒屋/宴会/ちゃんこ･力士料理 金鍋/心の宿みかさ旅館",
+                        "url": "https://www.ztv.ne.jp/maruchi/mikasa/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "力士料理 金鍋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YcKPKkWQxif3rFyg8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "みかさ旅館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/EMxTAV6P8bC6M8nT7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        }
+    ],
+    "featuresJSON": [
+        "/jingu/naiku/shinsangun/index.json"
+    ]
+}

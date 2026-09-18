@@ -1,0 +1,61 @@
+{
+    "url": "/chukyo/?id=mikawa",
+    "title": [
+        "Mikawa area (Eastern Aichi)",
+        "三河国"
+    ],
+    "description": "愛知県東部（三河国）",
+    "info": {
+        "markdown": "mikawa/README.md",
+        "links": null
+    },
+    "map": {
+        "center": [
+            137.14565166058878,
+            34.94298417077414
+        ],
+        "bounds": [
+            [
+                136.91934201917718,
+                34.19649290459195
+            ],
+            [
+                138.0,
+                35.310627960731864
+            ]
+        ],
+        "zoom": 9.5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.04073191292275,
+                    35.01317138904072
+                ],
+                "address": "日本 〒472-0023 愛知県知立市西町神田１２番地"
+            },
+            "properties": {
+                "title": "知立神社",
+                "description": "5月2日・3日の二日間 知立の山車文楽とからくり"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.3606778,
+                    35.1290444
+                ],
+                "address": "〒444-2418 愛知県豊田市綾渡町奥12番地"
+            },
+            "properties": {
+                "title": "平勝寺",
+                "description": "八月十日と十五日の夕方 綾渡の夜念仏と盆踊"
+            }
+        }
+    ]
+}

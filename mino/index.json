@@ -1,0 +1,293 @@
+{
+    "url": "/chukyo/?id=mino",
+    "title": [
+        "Yoro - Ogaki - Mizuho, Gifu",
+        "美濃国（岐阜県南部）"
+    ],
+    "description": "三つの大きな美しい野（青野・大野・各務野）がある「御野国・美野国」",
+    "info": {
+        "markdown": "mino/README.md",
+        "note": null,
+        "links": [
+            {
+                "text": "美濃国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/美濃国",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.64372832897237,
+            35.422469421597384
+        ],
+        "bounds": [
+            [
+                136.37734864179862,
+                34.98096917380434
+            ],
+            [
+                136.99327610623845,
+                35.569192328689454
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.52533041805395,
+                    35.36099507299585
+                ],
+                "address": "日本 〒503-2124 岐阜県不破郡垂井町宮代１７３４番地１"
+            },
+            "properties": {
+                "title": "南宮大社",
+                "description": "金属の総本宮として全国の金属業・鉄鉱業・鍛冶屋から厚い信仰を集める、美濃国一宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.53046001405443,
+                    35.35972466373687
+                ],
+                "address": "日本 〒503-2124 岐阜県不破郡垂井町宮代７６５番地"
+            },
+            "properties": {
+                "title": "大領神社",
+                "description": "南宮大社の摂社、美濃国二宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.4949049222323,
+                    35.37696948640102
+                ],
+                "address": "日本 〒503-2106 岐阜県不破郡垂井町伊吹１４８４番地１"
+            },
+            "properties": {
+                "title": "伊富岐神社",
+                "description": "伊吹山を背後にした形で造られている、美濃国二宮\n古代、この地域に勢力があった伊福氏の祖神を祭っている"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.52387553010522,
+                    35.3781810747288
+                ],
+                "address": "日本 〒503-2114 岐阜県不破郡垂井町府中２５１８番地"
+            },
+            "properties": {
+                "title": "南宮御旅神社",
+                "description": "かつての美濃国国府が存在した地、国府之宮とも呼ばれていたという美濃国総社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.63341035126206,
+                    35.36315836173662
+                ],
+                "address": "日本 〒503-0808 岐阜県大垣市三塚町１２２２番地"
+            },
+            "properties": {
+                "title": "大垣サウナ",
+                "description": "サウナの聖地と呼ばれる男性専用サウナ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.64372832897237,
+                    35.422469421597384
+                ],
+                "address": "日本 〒501-0302 岐阜県瑞穂市居倉７８１番地"
+            },
+            "properties": {
+                "title": "天神神社 てんじん",
+                "description": "垂仁天皇10年、元伊勢「伊久良河宮」として宮殿が造られたのが始まりと伝えられる神社\n本殿右にある御船代石（みふなしろいし）はその時に天照大神の神輿を安置した跡とも伝える"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.63858439538552,
+                    35.42664231409617
+                ],
+                "address": "日本 〒501-0301 岐阜県瑞穂市七崎８４番地"
+            },
+            "properties": {
+                "title": "根祭神社（通称 天神神社）",
+                "description": "田園の広がる川沿いの平地に鎮座、元伊勢「伊久良河宮」の候補地のひとつ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.63700163499658,
+                    35.42595017349501
+                ],
+                "address": "日本 〒501-0301 岐阜県瑞穂市七崎１３９番地"
+            },
+            "properties": {
+                "title": "神明神社 しんめい",
+                "description": "創祀・由縁不詳、元伊勢「伊久良河宮」の候補地のひとつ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.68927671640859,
+                    35.40605125465612
+                ],
+                "address": "日本 〒501-0213 岐阜県瑞穂市生津内宮町２丁目７８番地"
+            },
+            "properties": {
+                "title": "豊受神社 とようけ",
+                "description": "糸貫川と長良川が合流する川畔近くに鎮座する社、元伊勢「伊久良河宮」の候補地のひとつ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.68491431,
+                    35.3437152
+                ],
+                "address": "安八町森部373-の10"
+            },
+            "properties": {
+                "title": "宇波刀神社 うばと",
+                "description": "幾度と無く被害を受けたため原初の鎮座地は不明、元伊勢「伊久良河宮」の候補地のひとつ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.676802778244,
+                    35.32911388927036
+                ],
+                "address": "岐阜県安八郡安八町大森"
+            },
+            "properties": {
+                "title": "名木林神社",
+                "description": "美濃國神明帳に正五位名木林明神とある古社、元伊勢「伊久良河宮」の候補地のひとつ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.66760435,
+                    35.40944651
+                ],
+                "address": "美江寺306-1"
+            },
+            "properties": {
+                "title": "さぼてん村",
+                "description": "農場の広さは10万平方メートル。サボテンの栽培面積としては日本最大\n約300種類、50万本のサボテンを栽培し、出荷数は日本最大級\n営業時間は9：00 - 16：00（日曜休業）。基本的には予約無しでも入園可能"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.78203623212266,
+                    35.43393759023337
+                ],
+                "address": "日本 〒500-0000 岐阜県岐阜市天主閣"
+            },
+            "properties": {
+                "title": "金華山",
+                "description": "戦国時代「岐阜を制する者は、日本を制する」と言われた、日本の中部に位置する岐阜のシンボル"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.77061731312176,
+                    35.42725761303963
+                ],
+                "address": "日本 〒500-8043 岐阜県岐阜市伊奈波通"
+            },
+            "properties": {
+                "title": "伊奈波神社",
+                "description": "「信長公のおもてなし」が息づく戦国城下町・岐阜 」の構成文化財として日本遺産に認定される、美濃国三宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.76167862131467,
+                    35.417663458995904
+                ],
+                "address": "日本 〒500-8183 岐阜県岐阜市一番町７番地"
+            },
+            "properties": {
+                "title": "新岐阜サウナ",
+                "description": "【営業時間】11:00〜翌日10:00・朝風呂（5:00〜10:00）\n【料金】通常料金：1,800円／朝風呂：1,000円\nカプセルホテル宿泊 朝食付き：5,000円"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.55018055554893,
+                    35.31351944393582
+                ],
+                "address": "岐阜県養老郡養老町三神町"
+            },
+            "properties": {
+                "title": "多岐神社",
+                "description": "美濃国三宮とされる"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.55049966,
+                    35.28221991
+                ],
+                "address": "養老町高林1298-2"
+            },
+            "properties": {
+                "title": "養老天命反転地",
+                "description": "荒川修作とマドリン・ギンズによる構想を公園施設"
+            }
+        }
+    ]
+}
